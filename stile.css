@@ -123,12 +123,13 @@ main{
     flex-wrap: wrap;
 }
 .resp1{
-    height: 40vh;
+    height: 30vh;
     width: 30%;
-    min-width: 200px;
+    min-width: 180px;
     margin: 15px;
     margin: 30px 20px;
     animation: anim 4s infinite;
+    border-radius: 50px;
 } 
 @keyframes anim {
     from{
